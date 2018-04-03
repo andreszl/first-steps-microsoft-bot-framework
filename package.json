@@ -1,5 +1,5 @@
 {
-  "name": "BOTS",
+  "name": "first steps microsoft bot framework",
   "version": "1.0.0",
   "description": "",
   "main": "holaBot.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "andreszl",
+  "license": "MIT",
   "dependencies": {
     "botbuilder": "^3.14.0",
     "restify": "^6.3.4"
